@@ -1,0 +1,11 @@
+.f-banner-retarget:after {
+    background: url(/wp-content/uploads/2023/06/clouds-1.png);
+    content: "";
+    display: block;
+    width: 1920px;
+    height: 1080px;
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom: -94px;
+    z-index: 0;
+}
