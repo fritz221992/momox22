@@ -11,7 +11,7 @@
     z-index: 0;
 }
 
-/*Removing White Space in Website Helpfull in Responsive*/
+/*Removing White Space in Website Helpfull in Mobile Responsive*/
 html,body
 {
     width: 100%;
